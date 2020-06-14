@@ -1,0 +1,109 @@
+body {
+	background-color: gray;
+}
+
+nav {
+	background-color: #212529;
+	padding:20px 0;
+}
+
+nav .a {
+	color: white;
+}
+
+nav .ab {
+	color: red;
+}
+
+header {
+	height: auto;
+}
+.slika {
+	width: 100%;
+	margin-top: -20px;
+	height: 500px;
+	background-image: url("Vjezbe/Leonardo_Zelenika_projektni_zadatak2.jpg");
+
+	background-size: cover;
+	background-position: center;
+}
+
+.slika h1{
+	color: white;
+	padding-top: 20px; 
+	text-align: center;
+	font-size: 40pt;
+}
+
+.slika h2 {
+	color: white;
+	text-align: center;
+	padding-top: 150px; 
+	font-style: italic;
+}
+.main {
+	width: 100%;
+	background-color: #212529;
+
+}
+
+/*OVO JE TRAKA S LINKOVIMA*/
+.wrapper {
+	margin: 0 auto;
+	width: 75%;
+}
+
+
+.navigacija {
+	background-color: #212529;
+}
+
+.navigacija h5{
+	color: yellow;
+}
+
+main{
+	text-align: center;
+	margin-top: 50px; 
+	margin-bottom: 10px;
+	
+	padding: 0px;
+	height: 350px;
+}
+
+main span{
+	margin-bottom: 40px;
+}
+.omeni{
+	height: 250px;
+	width: 50%;
+	background-color: ;
+	float: left;
+	padding: 40px 50px 0px 50px;
+}
+.omeni a{
+
+	border: 1px solid black;
+	color: black;
+	background-color: #CEAE9B;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.omeni-slika{
+	height: 350px;
+	width: 50%;
+	background-color: ;
+	float: right;
+}
+.omeni-slika img{
+	float: left;
+}
+
+.ikona .fa-circle{
+	color: #FED136;	
+}
+
+
+
+
